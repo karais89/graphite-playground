@@ -17,6 +17,7 @@ public class Sample : MonoBehaviour
         Debug.Log("main update2");    
         Debug.Log("main update3"); 
         Debug.Log("main update4");
-        Debug.Log("main update5");   
+        Debug.Log("main update5"); 
+        Debug.Log("main update6");   
     }
 }
