@@ -12,5 +12,6 @@ public class Sample : MonoBehaviour
     void Update()
     {
         Debug.Log("main update");
+        Debug.Log("main update2");        
     }
 }
